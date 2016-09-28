@@ -1,0 +1,28 @@
+[ 2016-09-27T08:50:27+08:00 ] ::1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001687s ]
+NOTIC: [8] Undefined index: url /Applications/MAMP/htdocs/ldm/application/Common/Controller/AppframeController.class.php 第 24 行.
+
+[ 2016-09-27T08:51:18+08:00 ] ::1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001514s ]
+NOTIC: [8] Undefined index: url /Applications/MAMP/htdocs/ldm/application/Common/Controller/AppframeController.class.php 第 24 行.
+
+[ 2016-09-27T08:51:20+08:00 ] ::1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001382s ]
+NOTIC: [8] Undefined index: url /Applications/MAMP/htdocs/ldm/application/Common/Controller/AppframeController.class.php 第 24 行.
+
+[ 2016-09-27T08:51:21+08:00 ] ::1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001485s ]
+NOTIC: [8] Undefined index: url /Applications/MAMP/htdocs/ldm/application/Common/Controller/AppframeController.class.php 第 24 行.
+
